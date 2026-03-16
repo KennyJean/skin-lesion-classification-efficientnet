@@ -146,7 +146,7 @@ Categories:
 
 Example categories from the dataset:
 
-![Skin Tone Categories](images/skin_tone_categories.png)
+![Skin Tone Categories](images/skin_tone_category.png)
 
 This enables analysis of **model performance across different skin tones**, an important aspect of fairness in medical AI.
 
@@ -225,7 +225,7 @@ Slides explaining the methodology and results:
 Google Slides:
 
 ```
-<insert your slide link here>
+https://docs.google.com/presentation/d/1fHl8UlqziC6y6xWGyXWWi3OA1Hkvf4pszdoWPHpGheg/edit?usp=sharing
 ```
 
 ---
