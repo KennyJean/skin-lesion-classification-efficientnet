@@ -230,7 +230,24 @@ https://docs.google.com/presentation/d/1fHl8UlqziC6y6xWGyXWWi3OA1Hkvf4pszdoWPHpG
 
 ---
 
-# Author
+# Contributions
 
+This project was completed collaboratively.
+
+**Ian Wang**
+- Designed and implemented the main deep learning pipeline
+- Implemented EfficientNet-B0 training and model fine-tuning
+- Developed the image loading and preprocessing pipeline
+
+**Kenny Gao**
+- Implemented skin tone estimation using the Individual Typology Angle (ITA)
+- Developed the skin tone categorization pipeline
+- Generated skin tone category visualizations
+- Performed subgroup analysis across skin tone categories
+
+---
+
+# Authors
+Ian Wang
 Kenny Gao  
-Master of Data Science — UC Irvine
+
